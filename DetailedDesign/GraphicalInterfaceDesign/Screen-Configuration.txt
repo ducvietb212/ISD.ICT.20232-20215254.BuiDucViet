@@ -1,0 +1,22 @@
+1. Display
+Number of colors supported: 16,777,216 colors
+Resolution:	1440 × 1024 pixels
+
+2. Screen
+Location of standard buttons: At the bottom (vertically) and in the middle (horizontally) of the frame
+Prompt: Center of screen, its focus
+Screen title: Top left(or top center) of the screen
+
+3. Control
+Input: check validation input(empty or not)
+Each screen is seperated with each others, prompt is focus during shown.
+Input data is save upon submit and can be changed during interation
+Sequence of moving the focus: There will be no stack frames. Each screen will be
+separated.
+
+4. Error
+System display a notify to users about the error of the current operation
+
+ 
+
+
